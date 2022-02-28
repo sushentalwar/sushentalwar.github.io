@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Who Am I?
 
-You can use the [editor on GitHub](https://github.com/sushentalwar/sushentalwar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Certified CPA through CPA Canada and FMVA through Corporate Finance Institute. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By trade, I'm a licensed CPA with 5 years of experience. Currently I am working for a SaaS company (Heap) in San Francisco. Beyond crunching numbers and working through endless Excel files, I have been bitten by a travel bug and I aim to travel to 30 countries by the time I turn 30. I am also a photographer.
 
-### Markdown
+I've spent the last few years learning about Blockchain, Cryptocurrencies, DeFi and DApps, and their impact on financial institutes and world of business through reading books and attending conferences/webinars. I'm very extroverted and have a down-to-earth personality. I enjoy playing basketball and volleyball but also can be found spending time exploring, reading and watching countless Netflix/Hulu/HBO/Prime series. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work
 
-```markdown
-Syntax highlighted code block
+**Controller** @ _SuperRare Labs_ {Feb 22 - Present, San Francisco}
 
-# Header 1
-## Header 2
-### Header 3
+**Revenue Accounting Manager** @ _Heap Inc_ {May 21 - Feb 22, San Francisco}
 
-- Bulleted
-- List
+**Senior Accountant** @ _Heap Inc_ {Nov 20 - May 21, San Francisco}
 
-1. Numbered
-2. List
+**Manager of Internal Audit - North America** @ _CCL Industries_ {Jun 19 - Nov 20, Toronto}
 
-**Bold** and _Italic_ and `Code` text
+**Senior Accountant** @ _KPMG Canada_ {Oct 17 - Jun 19, Toronto}
 
-[Link](url) and ![Image](src)
-```
+## Education & License 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Financial Modeling and Valuation Analyst (FMVA)**, _Corporate Finance Institute_, 2020
 
-### Jekyll Themes
+**Chartered Professional Accountant (CPA)**, _CPA Canada_, 2019
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sushentalwar/sushentalwar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Post Graduate Advanced Accounting Diploma**, _McMaster University_, 2017
 
-### Support or Contact
+**Honors, Bachelor of Commerce - Accounting**, _McMaster University_, 2017 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact 
+[Email](hello@sushentalwar.com)     |     [LinkedIn](https://www.linkedin.com/in/sushentalwar/)     |     [Twitter](https://twitter.com/sushentalwar)
