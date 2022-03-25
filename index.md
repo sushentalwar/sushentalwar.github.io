@@ -8,15 +8,15 @@ I've spent the last few years learning about Blockchain, Cryptocurrencies, DeFi 
 
 ## Work
 
-**Controller** @ _SuperRare Labs_ {Feb 22 - Present, San Francisco}
+**Controller** @ _SuperRare Labs_ (Feb 22 - Present, San Francisco)
 
-**Revenue Accounting Manager** @ _Heap Inc_ {May 21 - Feb 22, San Francisco}
+**Revenue Accounting Manager** @ _Heap Inc_ (May 21 - Feb 22, San Francisco)
 
-**Senior Accountant** @ _Heap Inc_ {Nov 20 - May 21, San Francisco}
+**Senior Accountant** @ _Heap Inc_ (Nov 20 - May 21, San Francisco)
 
-**Manager of Internal Audit - North America** @ _CCL Industries_ {Jun 19 - Nov 20, Toronto}
+**Manager of Internal Audit - North America** @ _CCL Industries_ (Jun 19 - Nov 20, Toronto)
 
-**Senior Accountant** @ _KPMG Canada_ {Oct 17 - Jun 19, Toronto}
+**Senior Accountant** @ _KPMG Canada_ (Oct 17 - Jun 19, Toronto)
 
 ## Education & License 
 
