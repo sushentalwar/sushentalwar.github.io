@@ -29,4 +29,4 @@ I've spent the last few years learning about Blockchain, Cryptocurrencies, DeFi 
 **Honors, Bachelor of Commerce - Accounting**, _McMaster University_, 2017 
 
 ## Contact 
-[Email](hello@sushentalwar.com)     |     [LinkedIn](https://www.linkedin.com/in/sushentalwar/)     |     [Twitter](https://twitter.com/sushentalwar)     [Books I've Read](https://sushentalwar.notion.site/d689054189994a39a9c72d04e4ac5b68?v=771d60ced22c43448b4cde31e2cfa370)
+[Email](hello@sushentalwar.com)     |     [LinkedIn](https://www.linkedin.com/in/sushentalwar/)     |     [Twitter](https://twitter.com/sushentalwar)     |    [Books I've Read](https://sushentalwar.notion.site/d689054189994a39a9c72d04e4ac5b68?v=771d60ced22c43448b4cde31e2cfa370)
