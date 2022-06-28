@@ -16,7 +16,7 @@ I've spent the last few years learning about Blockchain, Cryptocurrencies, DeFi 
 
 **Manager of Internal Audit - North America** @ _CCL Industries_ (Jun 19 - Nov 20, Toronto)
 
-**Senior Accountant** @ _KPMG Canada_ (Oct 17 - Jun 19, Toronto)
+**Staff Accountant** @ _KPMG Canada_ (Oct 17 - Jun 19, Toronto)
 
 ## Education & License 
 
